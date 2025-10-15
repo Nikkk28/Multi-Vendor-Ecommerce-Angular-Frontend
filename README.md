@@ -4,6 +4,9 @@
 
 This guide will walk you through the steps to clone and set up this Angular project from GitHub using Visual Studio Code.
 
+# Backend
+Click [here](/https://github.com/Nikkk28/Multi-Vendor-Ecommerce-using-Spring-Boot) to access spring boot backend for this application
+
 # ScreenShots
 - [Customer Features Screenshots](/CustomerFeaturesScreenshots.md)
 - [Seller Features Screenshots](/SellerFeaturesScreenshots.md)
