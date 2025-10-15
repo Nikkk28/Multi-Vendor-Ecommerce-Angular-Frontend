@@ -4,6 +4,9 @@
 
 This guide will walk you through the steps to clone and set up this Angular project from GitHub using Visual Studio Code.
 
+## DEMO
+Click here for [live demo](https://multi-vendor-ecommerce-angular-fron.vercel.app)
+
 # Backend
 Click [here](https://github.com/Nikkk28/Multi-Vendor-Ecommerce-using-Spring-Boot) to access spring boot backend for this application
 
