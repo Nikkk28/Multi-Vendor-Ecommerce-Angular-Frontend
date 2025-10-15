@@ -4,6 +4,11 @@
 
 This guide will walk you through the steps to clone and set up this Angular project from GitHub using Visual Studio Code.
 
+# ScreenShots
+- [Customer Features Screenshots](/CustomerFeaturesScreenshots.md)
+- [Seller Features Screenshots](/SellerFeaturesScreenshots.md)
+- [Admin Features Screenshots](/AdminFeaturesScreenshots.md)
+
 ## Prerequisites
 
 Before you begin, ensure that you have the following installed on your system:
